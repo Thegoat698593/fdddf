@@ -1,8 +1,11 @@
 {
-  "build": "Nexus v1.2.0",
-  "image": "https://assets.rockpapershotgun.com/images/2019/02/fortnite-season-8.jpg",
-  "slogan": "X Marks The Spot",
-  "message": "Experience the next generation of gaming with enhanced performance and new features",
-  "audio": "https://example.com/path/to/background-music.mp3",
-  "available": true
+  "header": "Founder $20.00 / Lifetime",
+  "bulletPoints": [
+    "3000 V-Bucks monthly starter pack",
+    "Access to exclusive name change",
+    "50% XP and V-Buck boost",
+    "Priority queue for faster matchmaking",
+    "Rose Team Leader & Warpaint outfits",
+    "Early access to Next Season"
+  ]
 }
